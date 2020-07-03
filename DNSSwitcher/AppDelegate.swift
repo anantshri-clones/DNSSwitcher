@@ -152,7 +152,7 @@ class AppDelegate: NSObject, NSApplicationDelegate, NSMenuDelegate {
             self.showAlert("Error", message: "DNS change failed with exit code \(result): \(output)", style: NSAlertStyle.CriticalAlertStyle)
         }
         else {
-            self.showAlert("DNS Changed", message: "Your DNS settings have been updated successfully.", style: NSAlertStyle.WarningAlertStyle)
+//          self.showAlert("DNS Changed", message: "Your DNS settings have been updated successfully.", style: NSAlertStyle.WarningAlertStyle)
         }
     }
 
