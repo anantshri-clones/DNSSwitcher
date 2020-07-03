@@ -128,7 +128,7 @@
 				TargetAttributes = {
 					C9B374BF1D004CE6004C937E = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 4U5N6YJ52K;
+						DevelopmentTeam = R7TQR749VW;
 					};
 				};
 			};
@@ -346,9 +346,11 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = R7TQR749VW;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = DNSSwitcher/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.mattmc.DNSSwitcher;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
@@ -365,9 +367,11 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = R7TQR749VW;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = DNSSwitcher/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.mattmc.DNSSwitcher;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
